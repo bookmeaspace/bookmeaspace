@@ -13,7 +13,7 @@ class _BookingTabState extends State<BookingTab> {
     return const CustomScrollView(
       slivers: <Widget>[
         CupertinoSliverNavigationBar(
-          largeTitle: Text('Search'),
+          largeTitle: Text('Bookings'),
         ),
       ],
     );

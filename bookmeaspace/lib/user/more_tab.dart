@@ -13,7 +13,7 @@ class _MoreTabState extends State<MoreTab> {
     return const CustomScrollView(
       slivers: <Widget>[
         CupertinoSliverNavigationBar(
-          largeTitle: Text('Search'),
+          largeTitle: Text('More'),
         ),
       ],
     );

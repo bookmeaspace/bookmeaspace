@@ -31,19 +31,19 @@ class Menu extends StatelessWidget  {
             title: Text('Profile'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.search),
+            icon: Icon(CupertinoIcons.bookmark),
             title: Text('Bookings'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.shopping_cart),
+            icon: Icon(CupertinoIcons.search),
             title: Text('Search'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.shopping_cart),
+            icon: Icon(CupertinoIcons.group),
             title: Text('Groups'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(CupertinoIcons.shopping_cart),
+            icon: Icon(CupertinoIcons.ellipsis),
             title: Text('More'),
           ),
         ],

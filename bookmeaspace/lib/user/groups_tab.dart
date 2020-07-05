@@ -13,7 +13,7 @@ class _GroupsTabState extends State<GroupsTab> {
     return const CustomScrollView(
       slivers: <Widget>[
         CupertinoSliverNavigationBar(
-          largeTitle: Text('Search'),
+          largeTitle: Text('Groups'),
         ),
       ],
     );
